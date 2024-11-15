@@ -1,5 +1,8 @@
 # Heart Disease Prediction using AIML
 
+This is just a short overview of the assignment.
+Refer the Explaination_Doc_2.2 for detailed explaination of the assignment.
+
 ## Overview
 
 This project aims to predict the likelihood of heart disease based on various health parameters using machine learning algorithms. The model was trained using the UCI Heart Disease dataset, and a web application was developed using Flask to allow users to input data and receive predictions in real time.
